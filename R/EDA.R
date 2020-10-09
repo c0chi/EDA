@@ -1,4 +1,4 @@
-## stacked barplots in plotly. 
+## stacked barplots in plotly
 ## these are absolutly icky, but since plotly has
 ## moved to NSE I see no other way!
 stackedPlotlyBarPlot <- function(M,names,x.centres,fit.length,axisX,axisY1,axisY2,title,layout=TRUE){
